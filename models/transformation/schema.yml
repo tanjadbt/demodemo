@@ -1,0 +1,12 @@
+
+version: 2
+
+models:
+    - name: stg_order
+      description: name of the customer"
+      columns:
+          - name: SALES_ORDER_NUMBER
+            description: "The primary key for this table"
+         
+
+  

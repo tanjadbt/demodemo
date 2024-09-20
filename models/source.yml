@@ -1,0 +1,9 @@
+sources:
+  - name: jaffle_shop
+    database: TEST
+    schema: JAFFLE_SHOP
+    tables:
+      - name: ORDERS
+        description: "Contains details of customer orders including order dates, amounts, and statuses."
+      - name: CUSTOMER
+        description: "Holds information about customers, such as names, contact details, and addresses."
